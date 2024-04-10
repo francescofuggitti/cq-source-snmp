@@ -1,4 +1,4 @@
-# CloudQuery File Source Plugin
+# CloudQuery SNMP Source Plugin
 
 [![test](https://github.com/francescofuggitti/cq-source-snmp/actions/workflows/test.yaml/badge.svg)](https://github.com/francescofuggitti/cq-source-snmp/actions/workflows/test.yaml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/francescofuggitti/cq-source-snmp)](https://goreportcard.com/report/github.com/francescofuggitti/cq-source-snmp)
